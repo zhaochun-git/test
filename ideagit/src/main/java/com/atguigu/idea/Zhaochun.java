@@ -7,6 +7,7 @@ public class Zhaochun {
         System.out.println("aishanshan");
         System.out.println("henaishanshan");
         System.out.println("haishihenaishanshan");
+        System.out.println("haha");
         //woaini
     }
 }
